@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Clinometer</string>
+    <string name="Not_detected">Pressure: Not detected!</string>
+    <string name="crash">Car is gonna crash!</string>
+    <string name="carcrash">Car is gonna crash!</string>
+
+
+</resources>
